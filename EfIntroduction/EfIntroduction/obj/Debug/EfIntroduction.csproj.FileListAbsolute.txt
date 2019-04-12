@@ -1,0 +1,14 @@
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\Database.mdf
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\Database_log.ldf
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EfIntroduction.exe.config
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EfIntroduction.exe
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EfIntroduction.pdb
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EntityFramework.dll
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EntityFramework.xml
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\obj\Debug\EfIntroduction.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\obj\Debug\EfIntroduction.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\obj\Debug\EfIntroduction.csproj.CopyComplete
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\obj\Debug\EfIntroduction.exe
+c:\users\мукушева.corp\source\repos\EfIntroduction\EfIntroduction\obj\Debug\EfIntroduction.pdb
