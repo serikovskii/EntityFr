@@ -10,7 +10,9 @@ namespace EfIntroduction
     public class AppContext : DbContext
     {
         public AppContext() : base("appContext")
-        {}
+        {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<AppContext, EfIntroduction.Migrations.Configuration>());
+        }
 
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<Author> Authors { get; set; }

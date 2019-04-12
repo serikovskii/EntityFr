@@ -9,9 +9,8 @@ namespace EfIntroduction
     public class Visitor : Entity
     {
         public string FullName { get; set; }
-        public Dictionary <Book, DateTime> BookForHand { get; set; }
-        public bool Deptor { get; set; }
-
-        
+        public ICollection<Book> Books { get; set; }
+        public bool Debtor { get; set; }
+        public DateTime Date { get; set; }       
     }
 }

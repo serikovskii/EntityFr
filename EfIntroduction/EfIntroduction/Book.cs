@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace EfIntroduction
 {
@@ -6,6 +7,6 @@ namespace EfIntroduction
     {
         public string Name { get; set; }
         public int Price { get; set; }
-        public Author Author { get; set; }
+        public ICollection<Author> Authors { get; set; }
     }
 }
