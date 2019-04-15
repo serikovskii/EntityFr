@@ -72,11 +72,14 @@ namespace EfIntroduction
                     Console.WriteLine(book.Name);
                 }
 
-                //foreach(var visitor in visitors)
-                //{
-                //    if (visitor.Debtor)
-                //        visitors[0].Debtor = false;
-                //}
+                for (int i = 0; i < context.Visitors.Count(); i++)
+                {
+                    if (context.Visitors.ToList()[i].Debtor)
+                    {
+                        context.Visitors.ToList()[i].Debtor = false;
+                        context.SaveChanges();
+                    }
+                }
                 
             }
             Console.ReadLine();
